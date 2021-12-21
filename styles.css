@@ -1,0 +1,16 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.bV6R1pv9e4WlSvrmiqPcnQHaEK&pid=Api&P=0&w=271&h=153);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 1px;
+    padding: 100px;
+    color: palevioletred;
+  }
+  
+  .App button {
+    color: blue;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 18px;
+  }
